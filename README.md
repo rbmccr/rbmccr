@@ -7,7 +7,6 @@ I'm a Ruby on Rails and JavaScript developer writing and supporting several comp
 🌎 Nashville, TN </br>
 🎓 Bachelor's and Master's degrees in Mining Engineering from the University of Kentucky </br>
 💻 Certified Web Developer through the Nashville Software School </br>
-🏎️ 6-time Rocket League Grand Champion </br>
 🤖 Obsessed with automating and writing commands for Discord bots </br>
 😄 JavaScript semicolon user (but we can still be friends if you aren't)
 
